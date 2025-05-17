@@ -1,0 +1,20 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "\"This is the backend application for the chat application\"",
+  "homepage": "https://github.com/Sahil-kumar9/chatAppBackend#readme",
+  "bugs": {
+    "url": "https://github.com/Sahil-kumar9/chatAppBackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sahil-kumar9/chatAppBackend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
